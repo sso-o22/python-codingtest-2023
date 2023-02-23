@@ -1,4 +1,4 @@
-# 백준 1253 좋다
+# 백준 1253 좋다 (투 포인터)
 import sys
 input = sys.stdin.readline
 
